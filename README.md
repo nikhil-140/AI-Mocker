@@ -18,10 +18,10 @@ Ensure you have the following installed:
   pip install -r requirements.txt
 
 ## How to Use
-Run the application
-python Examination.py
-
 - The AI will start asking questions.
 - You can either type your response or answer using voice input.
 - The AI will analyze your answer and provide instant feedback.
 - Your score will be displayed at the end.
+Run the application
+  ```sh
+  python Examination.py
